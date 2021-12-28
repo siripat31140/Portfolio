@@ -1,2 +1,2 @@
 # สรุปผลจากการสร้าง dashboard โดยใช้ข้อมูลผู้เสียชีวิตจากอุบัติเหตุทางถนนปี พ.ศ. 2554 - 2563
-xfun::embed_file("อุบัติเหตุไทย.pdf")
+[embed]https://github.com/siripat31140/Portfolio/blob/main/%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B9%84%E0%B8%97%E0%B8%A2%20(Power%20Bi)/%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B9%84%E0%B8%97%E0%B8%A2.pdf[/embed]
