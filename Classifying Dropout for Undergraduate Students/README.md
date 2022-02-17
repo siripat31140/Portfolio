@@ -1,6 +1,6 @@
 <h1 align="center">ผลลัพธ์การวิเคราะห์ Classifying Dropout for Undergraduate Students</h2>
 
-[ไฟล์ผลงานนำเสนอ](/รูปเล่ม.pdf)
+[ไฟล์ผลงานนำเสนอ](/https://github.com/siripat31140/Portfolio/blob/main/Classifying%20Dropout%20for%20Undergraduate%20Students/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1.pdf.pdf)
 
 ## **วัตถุประสงค์ของการวิจัย**
 
